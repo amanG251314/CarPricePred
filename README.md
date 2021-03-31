@@ -1,2 +1,2 @@
 # CarPricePred
-EndToEnd Project (Car selling price predictionm)
+EndToEnd Project (Car selling price prediction)
