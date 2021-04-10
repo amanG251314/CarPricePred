@@ -13,7 +13,7 @@ def Home():
     return render_template('index.html')
 
 
-standard_to = StandardScaler()
+standard_to = StandardScaler()  
 @app.route("/predict", methods=['POST'])
 def predict():
     #Fuel_Type_Diesel=0
